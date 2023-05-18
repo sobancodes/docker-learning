@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "First post",
+            "author": "Soban Farooq"
+        },
+        {
+            "title": "Second post",
+            "author": "Soban Farooq"
+        }
+    ],
+    "profile": {
+        "first_name": "Soban",
+        "last_name": "Farooq",
+        "email": "soban@example.com"
+    }
+}
